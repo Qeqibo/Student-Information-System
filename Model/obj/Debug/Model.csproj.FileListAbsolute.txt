@@ -1,0 +1,5 @@
+c:\Users\E-15\documents\visual studio 2015\Projects\BilgiSis\Model\bin\Debug\Model.dll
+c:\Users\E-15\documents\visual studio 2015\Projects\BilgiSis\Model\bin\Debug\Model.pdb
+c:\Users\E-15\documents\visual studio 2015\Projects\BilgiSis\Model\obj\Debug\Model.dll
+c:\Users\E-15\documents\visual studio 2015\Projects\BilgiSis\Model\obj\Debug\Model.pdb
+c:\Users\E-15\documents\visual studio 2015\Projects\BilgiSis\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache

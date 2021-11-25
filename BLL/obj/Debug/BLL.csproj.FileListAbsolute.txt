@@ -1,0 +1,27 @@
+c:\Users\E-15\documents\visual studio 2015\Projects\BilgiSis\BLL\bin\Debug\BLL.dll
+c:\Users\E-15\documents\visual studio 2015\Projects\BilgiSis\BLL\bin\Debug\BLL.pdb
+c:\Users\E-15\documents\visual studio 2015\Projects\BilgiSis\BLL\bin\Debug\DAL.dll
+c:\Users\E-15\documents\visual studio 2015\Projects\BilgiSis\BLL\bin\Debug\Model.dll
+c:\Users\E-15\documents\visual studio 2015\Projects\BilgiSis\BLL\bin\Debug\DAL.pdb
+c:\Users\E-15\documents\visual studio 2015\Projects\BilgiSis\BLL\bin\Debug\Model.pdb
+c:\Users\E-15\documents\visual studio 2015\Projects\BilgiSis\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+c:\Users\E-15\documents\visual studio 2015\Projects\BilgiSis\BLL\obj\Debug\BLL.dll
+c:\Users\E-15\documents\visual studio 2015\Projects\BilgiSis\BLL\obj\Debug\BLL.pdb
+C:\Users\Lab-3\Desktop\BilgiSis\BLL\bin\Debug\BLL.dll
+C:\Users\Lab-3\Desktop\BilgiSis\BLL\bin\Debug\BLL.pdb
+C:\Users\Lab-3\Desktop\BilgiSis\BLL\bin\Debug\DAL.dll
+C:\Users\Lab-3\Desktop\BilgiSis\BLL\bin\Debug\Model.dll
+C:\Users\Lab-3\Desktop\BilgiSis\BLL\bin\Debug\DAL.pdb
+C:\Users\Lab-3\Desktop\BilgiSis\BLL\bin\Debug\Model.pdb
+C:\Users\Lab-3\Desktop\BilgiSis\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Lab-3\Desktop\BilgiSis\BLL\obj\Debug\BLL.dll
+C:\Users\Lab-3\Desktop\BilgiSis\BLL\obj\Debug\BLL.pdb
+C:\Users\E-15\Desktop\UbeytullahTarhan_153801033\BilgiSis\BLL\bin\Debug\BLL.dll
+C:\Users\E-15\Desktop\UbeytullahTarhan_153801033\BilgiSis\BLL\bin\Debug\BLL.pdb
+C:\Users\E-15\Desktop\UbeytullahTarhan_153801033\BilgiSis\BLL\bin\Debug\DAL.dll
+C:\Users\E-15\Desktop\UbeytullahTarhan_153801033\BilgiSis\BLL\bin\Debug\Model.dll
+C:\Users\E-15\Desktop\UbeytullahTarhan_153801033\BilgiSis\BLL\bin\Debug\DAL.pdb
+C:\Users\E-15\Desktop\UbeytullahTarhan_153801033\BilgiSis\BLL\bin\Debug\Model.pdb
+C:\Users\E-15\Desktop\UbeytullahTarhan_153801033\BilgiSis\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\E-15\Desktop\UbeytullahTarhan_153801033\BilgiSis\BLL\obj\Debug\BLL.dll
+C:\Users\E-15\Desktop\UbeytullahTarhan_153801033\BilgiSis\BLL\obj\Debug\BLL.pdb

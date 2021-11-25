@@ -1,0 +1,10 @@
+c:\Users\E-15\documents\visual studio 2015\Projects\BilgiSis\DAL\bin\Debug\DAL.dll
+c:\Users\E-15\documents\visual studio 2015\Projects\BilgiSis\DAL\bin\Debug\DAL.pdb
+c:\Users\E-15\documents\visual studio 2015\Projects\BilgiSis\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\Users\E-15\documents\visual studio 2015\Projects\BilgiSis\DAL\obj\Debug\DAL.dll
+c:\Users\E-15\documents\visual studio 2015\Projects\BilgiSis\DAL\obj\Debug\DAL.pdb
+C:\Users\Lab-3\Desktop\BilgiSis\DAL\bin\Debug\DAL.dll
+C:\Users\Lab-3\Desktop\BilgiSis\DAL\bin\Debug\DAL.pdb
+C:\Users\Lab-3\Desktop\BilgiSis\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Lab-3\Desktop\BilgiSis\DAL\obj\Debug\DAL.dll
+C:\Users\Lab-3\Desktop\BilgiSis\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,87 @@
+c:\users\e-15\documents\visual studio 2015\Projects\BilgiSis\BilgiSis\bin\Debug\BilgiSis.exe.config
+c:\users\e-15\documents\visual studio 2015\Projects\BilgiSis\BilgiSis\bin\Debug\BilgiSis.exe
+c:\users\e-15\documents\visual studio 2015\Projects\BilgiSis\BilgiSis\bin\Debug\BilgiSis.pdb
+c:\users\e-15\documents\visual studio 2015\Projects\BilgiSis\BilgiSis\bin\Debug\BLL.dll
+c:\users\e-15\documents\visual studio 2015\Projects\BilgiSis\BilgiSis\bin\Debug\Model.dll
+c:\users\e-15\documents\visual studio 2015\Projects\BilgiSis\BilgiSis\bin\Debug\DAL.dll
+c:\users\e-15\documents\visual studio 2015\Projects\BilgiSis\BilgiSis\bin\Debug\BLL.pdb
+c:\users\e-15\documents\visual studio 2015\Projects\BilgiSis\BilgiSis\bin\Debug\Model.pdb
+c:\users\e-15\documents\visual studio 2015\Projects\BilgiSis\BilgiSis\bin\Debug\DAL.pdb
+c:\users\e-15\documents\visual studio 2015\Projects\BilgiSis\BilgiSis\obj\Debug\BilgiSis.csprojResolveAssemblyReference.cache
+c:\users\e-15\documents\visual studio 2015\Projects\BilgiSis\BilgiSis\obj\Debug\BilgiSis.Properties.Resources.resources
+c:\users\e-15\documents\visual studio 2015\Projects\BilgiSis\BilgiSis\obj\Debug\BilgiSis.csproj.GenerateResource.Cache
+c:\users\e-15\documents\visual studio 2015\Projects\BilgiSis\BilgiSis\obj\Debug\BilgiSis.exe
+c:\users\e-15\documents\visual studio 2015\Projects\BilgiSis\BilgiSis\obj\Debug\BilgiSis.pdb
+c:\users\e-15\documents\visual studio 2015\Projects\BilgiSis\BilgiSis\obj\Debug\BilgiSis.Form1.resources
+c:\users\e-15\documents\visual studio 2015\Projects\BilgiSis\BilgiSis\obj\Debug\BilgiSis.AdminGiris.resources
+c:\users\e-15\documents\visual studio 2015\Projects\BilgiSis\BilgiSis\obj\Debug\BilgiSis.AdminGiris2.resources
+c:\users\e-15\documents\visual studio 2015\Projects\BilgiSis\BilgiSis\obj\Debug\BilgiSis.AkademikBirimEkle.resources
+c:\users\e-15\documents\visual studio 2015\Projects\BilgiSis\BilgiSis\obj\Debug\BilgiSis.BolumEkle.resources
+c:\users\e-15\documents\visual studio 2015\Projects\BilgiSis\BilgiSis\obj\Debug\BilgiSis.OE.resources
+c:\users\e-15\documents\visual studio 2015\Projects\BilgiSis\BilgiSis\obj\Debug\BilgiSis.OEGiris.resources
+c:\users\e-15\documents\visual studio 2015\Projects\BilgiSis\BilgiSis\obj\Debug\BilgiSis.Ogrenci.resources
+c:\users\e-15\documents\visual studio 2015\Projects\BilgiSis\BilgiSis\obj\Debug\BilgiSis.OgrenciGiris.resources
+c:\users\e-15\documents\visual studio 2015\Projects\BilgiSis\BilgiSis\obj\Debug\BilgiSis.PersonelEkle.resources
+c:\users\e-15\documents\visual studio 2015\Projects\BilgiSis\BilgiSis\obj\Debug\BilgiSis.OgrenciEkle.resources
+c:\users\e-15\documents\visual studio 2015\Projects\BilgiSis\BilgiSis\obj\Debug\BilgiSis.DevamsızlıkEkle.resources
+c:\users\e-15\documents\visual studio 2015\Projects\BilgiSis\BilgiSis\obj\Debug\BilgiSis.NotEkle.resources
+E:\C#\BilgiSis\BilgiSis\bin\Debug\BilgiSis.exe.config
+E:\C#\BilgiSis\BilgiSis\obj\Debug\BilgiSis.exe
+E:\C#\BilgiSis\BilgiSis\obj\Debug\BilgiSis.pdb
+C:\Users\Lab-3\Desktop\BilgiSis\BilgiSis\bin\Debug\BilgiSis.exe.config
+C:\Users\Lab-3\Desktop\BilgiSis\BilgiSis\obj\Debug\BilgiSis.exe
+C:\Users\Lab-3\Desktop\BilgiSis\BilgiSis\obj\Debug\BilgiSis.pdb
+C:\Users\Lab-3\Desktop\BilgiSis\BilgiSis\bin\Debug\BilgiSis.exe
+C:\Users\Lab-3\Desktop\BilgiSis\BilgiSis\bin\Debug\BilgiSis.pdb
+C:\Users\Lab-3\Desktop\BilgiSis\BilgiSis\bin\Debug\BLL.dll
+C:\Users\Lab-3\Desktop\BilgiSis\BilgiSis\bin\Debug\Model.dll
+C:\Users\Lab-3\Desktop\BilgiSis\BilgiSis\bin\Debug\DAL.dll
+C:\Users\Lab-3\Desktop\BilgiSis\BilgiSis\bin\Debug\BLL.pdb
+C:\Users\Lab-3\Desktop\BilgiSis\BilgiSis\bin\Debug\Model.pdb
+C:\Users\Lab-3\Desktop\BilgiSis\BilgiSis\bin\Debug\DAL.pdb
+C:\Users\Lab-3\Desktop\BilgiSis\BilgiSis\obj\Debug\BilgiSis.csprojResolveAssemblyReference.cache
+C:\Users\Lab-3\Desktop\BilgiSis\BilgiSis\obj\Debug\BilgiSis.AdminGiris.resources
+C:\Users\Lab-3\Desktop\BilgiSis\BilgiSis\obj\Debug\BilgiSis.AdminGiris2.resources
+C:\Users\Lab-3\Desktop\BilgiSis\BilgiSis\obj\Debug\BilgiSis.AkademikBirimEkle.resources
+C:\Users\Lab-3\Desktop\BilgiSis\BilgiSis\obj\Debug\BilgiSis.BolumEkle.resources
+C:\Users\Lab-3\Desktop\BilgiSis\BilgiSis\obj\Debug\BilgiSis.DevamsızlıkEkle.resources
+C:\Users\Lab-3\Desktop\BilgiSis\BilgiSis\obj\Debug\BilgiSis.Form1.resources
+C:\Users\Lab-3\Desktop\BilgiSis\BilgiSis\obj\Debug\BilgiSis.NotEkle.resources
+C:\Users\Lab-3\Desktop\BilgiSis\BilgiSis\obj\Debug\BilgiSis.OE.resources
+C:\Users\Lab-3\Desktop\BilgiSis\BilgiSis\obj\Debug\BilgiSis.OEGiris.resources
+C:\Users\Lab-3\Desktop\BilgiSis\BilgiSis\obj\Debug\BilgiSis.Ogrenci.resources
+C:\Users\Lab-3\Desktop\BilgiSis\BilgiSis\obj\Debug\BilgiSis.OgrenciEkle.resources
+C:\Users\Lab-3\Desktop\BilgiSis\BilgiSis\obj\Debug\BilgiSis.OgrenciGiris.resources
+C:\Users\Lab-3\Desktop\BilgiSis\BilgiSis\obj\Debug\BilgiSis.PersonelEkle.resources
+C:\Users\Lab-3\Desktop\BilgiSis\BilgiSis\obj\Debug\BilgiSis.Properties.Resources.resources
+C:\Users\Lab-3\Desktop\BilgiSis\BilgiSis\obj\Debug\BilgiSis.csproj.GenerateResource.Cache
+C:\Users\Lab-3\Desktop\UbeytullahTarhan_153801033\BilgiSis\BilgiSis\bin\Debug\BilgiSis.exe.config
+C:\Users\Lab-3\Desktop\UbeytullahTarhan_153801033\BilgiSis\BilgiSis\obj\Debug\BilgiSis.exe
+C:\Users\Lab-3\Desktop\UbeytullahTarhan_153801033\BilgiSis\BilgiSis\obj\Debug\BilgiSis.pdb
+C:\Users\E-15\Desktop\UbeytullahTarhan_153801033\BilgiSis\BilgiSis\bin\Debug\BilgiSis.exe.config
+C:\Users\E-15\Desktop\UbeytullahTarhan_153801033\BilgiSis\BilgiSis\obj\Debug\BilgiSis.exe
+C:\Users\E-15\Desktop\UbeytullahTarhan_153801033\BilgiSis\BilgiSis\obj\Debug\BilgiSis.pdb
+C:\Users\E-15\Desktop\UbeytullahTarhan_153801033\BilgiSis\BilgiSis\bin\Debug\BilgiSis.exe
+C:\Users\E-15\Desktop\UbeytullahTarhan_153801033\BilgiSis\BilgiSis\bin\Debug\BilgiSis.pdb
+C:\Users\E-15\Desktop\UbeytullahTarhan_153801033\BilgiSis\BilgiSis\bin\Debug\BLL.dll
+C:\Users\E-15\Desktop\UbeytullahTarhan_153801033\BilgiSis\BilgiSis\bin\Debug\Model.dll
+C:\Users\E-15\Desktop\UbeytullahTarhan_153801033\BilgiSis\BilgiSis\bin\Debug\DAL.dll
+C:\Users\E-15\Desktop\UbeytullahTarhan_153801033\BilgiSis\BilgiSis\bin\Debug\BLL.pdb
+C:\Users\E-15\Desktop\UbeytullahTarhan_153801033\BilgiSis\BilgiSis\bin\Debug\Model.pdb
+C:\Users\E-15\Desktop\UbeytullahTarhan_153801033\BilgiSis\BilgiSis\bin\Debug\DAL.pdb
+C:\Users\E-15\Desktop\UbeytullahTarhan_153801033\BilgiSis\BilgiSis\obj\Debug\BilgiSis.csprojResolveAssemblyReference.cache
+C:\Users\E-15\Desktop\UbeytullahTarhan_153801033\BilgiSis\BilgiSis\obj\Debug\BilgiSis.AdminGiris.resources
+C:\Users\E-15\Desktop\UbeytullahTarhan_153801033\BilgiSis\BilgiSis\obj\Debug\BilgiSis.AdminGiris2.resources
+C:\Users\E-15\Desktop\UbeytullahTarhan_153801033\BilgiSis\BilgiSis\obj\Debug\BilgiSis.AkademikBirimEkle.resources
+C:\Users\E-15\Desktop\UbeytullahTarhan_153801033\BilgiSis\BilgiSis\obj\Debug\BilgiSis.BolumEkle.resources
+C:\Users\E-15\Desktop\UbeytullahTarhan_153801033\BilgiSis\BilgiSis\obj\Debug\BilgiSis.DevamsızlıkEkle.resources
+C:\Users\E-15\Desktop\UbeytullahTarhan_153801033\BilgiSis\BilgiSis\obj\Debug\BilgiSis.Form1.resources
+C:\Users\E-15\Desktop\UbeytullahTarhan_153801033\BilgiSis\BilgiSis\obj\Debug\BilgiSis.NotEkle.resources
+C:\Users\E-15\Desktop\UbeytullahTarhan_153801033\BilgiSis\BilgiSis\obj\Debug\BilgiSis.OE.resources
+C:\Users\E-15\Desktop\UbeytullahTarhan_153801033\BilgiSis\BilgiSis\obj\Debug\BilgiSis.OEGiris.resources
+C:\Users\E-15\Desktop\UbeytullahTarhan_153801033\BilgiSis\BilgiSis\obj\Debug\BilgiSis.Ogrenci.resources
+C:\Users\E-15\Desktop\UbeytullahTarhan_153801033\BilgiSis\BilgiSis\obj\Debug\BilgiSis.OgrenciEkle.resources
+C:\Users\E-15\Desktop\UbeytullahTarhan_153801033\BilgiSis\BilgiSis\obj\Debug\BilgiSis.OgrenciGiris.resources
+C:\Users\E-15\Desktop\UbeytullahTarhan_153801033\BilgiSis\BilgiSis\obj\Debug\BilgiSis.PersonelEkle.resources
+C:\Users\E-15\Desktop\UbeytullahTarhan_153801033\BilgiSis\BilgiSis\obj\Debug\BilgiSis.Properties.Resources.resources
+C:\Users\E-15\Desktop\UbeytullahTarhan_153801033\BilgiSis\BilgiSis\obj\Debug\BilgiSis.csproj.GenerateResource.Cache
